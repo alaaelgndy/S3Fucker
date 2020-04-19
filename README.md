@@ -6,6 +6,7 @@ composer require alaaelgndy/s3-fucker
 ```
 
 ### Usage
+- Run php artisan vendor:publish then publish(Elgndy\S3Fucker\S3FuckerServiceProvider)
 - Configure the urls and the folder path in the storage directory using (config/elgndy_s3_fucker).
 - Run php artisan elgndy:s3-fucker
 
