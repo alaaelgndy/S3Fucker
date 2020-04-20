@@ -32,10 +32,4 @@ Run the `s3-fucker`:
 ```bash
 php artisan elgndy:s3-fucker
 ```
-
-## Hint
-it can be used for any public files even if not on s3.
-
-## Contributing
-
-Please see [CONTRIBUTING](graphs/contributors) for details.
+**Note:** it can be used for any public files even if not on s3.
