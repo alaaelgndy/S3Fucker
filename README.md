@@ -38,4 +38,4 @@ it can be used for any public files even if not on s3.
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](graphs/contributors) for details.
